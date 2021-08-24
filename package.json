@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thebadams/5e-srd/issues"
   },
-  "homepage": "https://github.com/thebadams/5e-srd#readme"
+  "homepage": "https://github.com/thebadams/5e-srd#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
