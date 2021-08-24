@@ -1,3 +1,3 @@
 const Spells = require('./lib/Spells')
 
-Spells.find();
+Spells.find({ level: 3 });
